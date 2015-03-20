@@ -1,0 +1,25 @@
+{
+  "name": "maths",
+  "description": "maths",
+  "main": "./index",
+  "author": "Qian Ye <coordcn@163.com>",
+  "version": "0.1.0",
+  "keywords": [
+    "math",
+    "least square",
+    "gaussian elimination"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coordcn/maths.git"
+  },
+  "bugs":{
+    "url": "https://github.com/coordcn/maths/issues"
+  },
+  "licenses": [
+    {
+      "type": "The MIT License (MIT)",
+      "url": "https://github.com/coordcn/maths/blob/master/LICENSE"
+    }
+  ]
+}
